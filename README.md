@@ -1,12 +1,15 @@
 # boop
 
-$ git init
-$ git status
-$ git add --all
-$ git add -A
-$ git add main.cpp
-$ git commit -m "first commit"
-$ git status
-$ git config --global user.email "kp08ce72@gmail.com"
-$ git config --global user.name "kp08ce72"
-$ git push -u origin main
+<br />
+GIT COMMAND<br />
+<br />
+$ git init<br />
+$ git status<br />
+$ git add --all<br />
+$ git add -A<br />
+$ git add main.cpp<br />
+$ git commit -m "first commit"<br /><br />
+$ git status<br />
+$ git config --global user.email "kp08ce72@gmail.com"<br />
+$ git config --global user.name "kp08ce72"<br />
+$ git push -u origin main<br />
