@@ -1,3 +1,4 @@
+//program (using class and object) to convert distance in centimetre entered by user into inches, feet, meter and kilometre.
 #include<iostream>
 using namespace std;
 
