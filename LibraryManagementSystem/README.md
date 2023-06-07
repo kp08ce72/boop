@@ -1,7 +1,7 @@
 <div style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri","sans-serif";border:none;border-bottom:solid #5B9BD5 1.0pt;padding:0in 0in 4.0pt 0in;'>
-    <p style='margin-top:0in;margin-right:0in;margin-bottom:15.0pt;margin-left:0in;border:none;padding:0in;font-size:35px;font-family:"Calibri Light","sans-serif";color:#323E4F;'>4320702 - MicroProject</p>
+    <h1 style='margin-top:0in;margin-right:0in;margin-bottom:15.0pt;margin-left:0in;border:none;padding:0in;font-size:35px;font-family:"Calibri Light","sans-serif";color:#323E4F;'>4320702 - MicroProject</h1>
 </div>
-<h1 style='margin-top:24.0pt;margin-right:0in;margin-bottom:.0001pt;margin-left:0in;line-height:107%;font-size:19px;font-family:"Calibri Light","sans-serif";color:#2E74B5;'>Creating a C++ micro project involves the following steps:</h1>
+<h2 style='margin-top:24.0pt;margin-right:0in;margin-bottom:.0001pt;margin-left:0in;line-height:107%;font-size:19px;font-family:"Calibri Light","sans-serif";color:#2E74B5;'>Creating a C++ micro project involves the following steps:</h2>
 <ol style="list-style-type: decimal;">
     <li>Define the Project Scope: Determine the purpose and goals of your project. Identify the specific features and functionality you want to implement.</li>
     <li>Plan the Project Structure: Break down your project into smaller modules or components. Identify the classes, functions, and data structures you&apos;ll need. Create a project structure that organizes your code files and resources.</li>
@@ -13,7 +13,7 @@
     <li>Continuously Maintain and Update: Keep your project up to date by addressing bug fixes, adding new features, and improving existing functionality. Maintain a version control system to track changes and collaborate with others.</li>
 </ol>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri","sans-serif";'>Remember to follow best coding practices, such as writing modular and reusable code, documenting your code and processes, and using meaningful variable and function names. Also, consider using libraries and frameworks that can simplify development and enhance the functionality of your project.</p>
-<h1 style='margin-top:24.0pt;margin-right:0in;margin-bottom:.0001pt;margin-left:0in;line-height:107%;font-size:19px;font-family:"Calibri Light","sans-serif";color:#2E74B5;'>By following these steps, you can create a well-structured and functional C++ micro project.</h1>
+<h2 style='margin-top:24.0pt;margin-right:0in;margin-bottom:.0001pt;margin-left:0in;line-height:107%;font-size:19px;font-family:"Calibri Light","sans-serif";color:#2E74B5;'>By following these steps, you can create a well-structured and functional C++ micro project.</h2>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri","sans-serif";'>To design a C++ microproject, you need to define several aspects of your project. Here&apos;s a list of definitions to consider when designing a C++ microproject:</p>
 <ol style="list-style-type: decimal;">
     <li>Project Scope: Clearly define the purpose and goals of your project. Identify the specific problem you are trying to solve or the functionality you want to implement.</li>
@@ -33,7 +33,7 @@
     <li>Project Timeline: Set realistic deadlines and milestones for your project. Define the tasks and their dependencies to create a project schedule.</li>
 </ol>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri","sans-serif";'>These definitions will help you establish a clear vision and plan for your C++ microproject, ensuring that you have a solid foundation for development and implementation.</p>
-<h1 style='margin-top:24.0pt;margin-right:0in;margin-bottom:.0001pt;margin-left:0in;line-height:107%;font-size:19px;font-family:"Calibri Light","sans-serif";color:#2E74B5;'>How to Design Library Management System in C++</h1>
+<h2 style='margin-top:24.0pt;margin-right:0in;margin-bottom:.0001pt;margin-left:0in;line-height:107%;font-size:19px;font-family:"Calibri Light","sans-serif";color:#2E74B5;'>How to Design Library Management System in C++</h2>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri","sans-serif";'>To design a Library Management System in C++, you can define several classes to represent different entities and functionalities within the system. Here&apos;s an example of how you can design the classes:</p>
 <ol style="list-style-type: decimal;">
     <li>Book class:<ol style="list-style-type: lower-alpha;">
@@ -71,5 +71,5 @@
 </ol>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri","sans-serif";'>This is a basic outline of the classes you can use to design a Library Management System. You can further enhance the functionality by adding additional methods and attributes as per your requirements, such as searching books by title or author, displaying borrowed books, managing due dates, etc.</p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri","sans-serif";'>Remember to implement appropriate data structures and algorithms to efficiently handle book and member data. Also, consider error handling, input validation, and persistence mechanisms (e.g., file handling) as necessary.</p>
-<h1 style='margin-top:24.0pt;margin-right:0in;margin-bottom:.0001pt;margin-left:0in;line-height:107%;font-size:19px;font-family:"Calibri Light","sans-serif";color:#2E74B5;'>Report Writing</h1>
+<h2 style='margin-top:24.0pt;margin-right:0in;margin-bottom:.0001pt;margin-left:0in;line-height:107%;font-size:19px;font-family:"Calibri Light","sans-serif";color:#2E74B5;'>Report Writing</h2>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri","sans-serif";'>&nbsp;</p>
